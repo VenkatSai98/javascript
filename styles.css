@@ -1,0 +1,7 @@
+button{
+    height: auto;
+    width: auto;
+    padding: 10px;
+    background-color: aliceblue;
+    cursor: pointer;
+}

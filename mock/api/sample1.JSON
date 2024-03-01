@@ -1,0 +1,47 @@
+{
+  "data": {
+    "company": {
+      "role": {
+        "id": "ODA0NA==",
+        "name": "Company Administrator",
+        "permissions": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "id": "Magento_Sales::payment_account",
+                        "sort_order": 30,
+                        "text": "Use Pay On Account method"
+                      }
+                    ],
+                    "id": "Magento_Sales::place_order",
+                    "sort_order": 20,
+                    "text": "Allow Checkout"
+                  },
+                  {
+                    "children": [
+                      {
+                        "id": "Magento_Sales::view_orders_sub",
+                        "sort_order": 40,
+                        "text": "View orders of subordinate users"
+                      }
+                    ],
+                    "id": "Magento_Sales::view_orders",
+                    "sort_order": 40,
+                    "text": "View orders"
+                  }
+                ],
+                "id": "Magento_Sales::all",
+                "sort_order": 10,
+                "text": "Sales"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

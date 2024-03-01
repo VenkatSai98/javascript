@@ -1,0 +1,37 @@
+ {
+    "data": {
+      "getCurrentAssignmentsReport": {
+        "data": [
+          {
+            "equipmentName": "19 ft. Electric Scissor Lift, 30-32 in. Wide",
+            "icNumber": "800091878",
+            "operatorEmail": "a.kulkarni@yopmail.com",
+            "operatorName": "Aditi Kulkarni",
+            "operatorPhoneNumber": "4693605508",
+            "assignmentEndDate": "2023-05-19T12:05:00Z",
+            "assignmentStartDate": "2023-11-03T06:00:00Z"
+          },
+          {
+            "equipmentName": "19 ft. Electric Scissor Lift, 30-32 in. Wide",
+            "icNumber": "800091878",
+            "operatorEmail": "a.kulkarni@yopmail.com",
+            "operatorName": "Aditi Kulkarni",
+            "operatorPhoneNumber": "4693605508",
+            "assignmentEndDate": "2023-10-17T07:45:00.55Z",
+            "assignmentStartDate": "2023-10-17T07:30:00.55Z"
+          },
+          {
+            "equipmentName": "19 ft. Electric Scissor Lift, 30-32 in. Wide",
+            "icNumber": "800091878",
+            "operatorEmail": "a.kulkarni@yopmail.com",
+            "operatorName": "Aditi Kulkarni",
+            "operatorPhoneNumber": "4693605508",
+            "assignmentEndDate": "2023-10-17T07:45:00Z",
+            "assignmentStartDate": "2023-10-17T07:30:00Z"
+          }
+        ]
+      }
+    }
+  }
+
+  
